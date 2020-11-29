@@ -43,7 +43,7 @@
              float:left;
              color: darkslateblue;
              background-color: white;
-             height: 250px;
+             height: 300px;
              width: 35%;
              padding: 5%;
              border:dotted;
@@ -52,7 +52,6 @@
         .Purpose h3
         {
             text-decoration:underline; 
-
         }
 
         .Introduction 
@@ -60,7 +59,7 @@
             float: left;
             color: white;
             background-color: darkslateblue;
-            height: 250px;
+            height: 300px;
             width: 35%;
             padding: 5%;
             border: dotted;
@@ -71,7 +70,13 @@
         }
         .break {
             background-color: lightblue;
-            height: 250px;
+            height: 300px;
             float: left;
             width: 9.25%;
+        }
+
+        .break img
+        {
+            max-height: 100%;
+            max-width: 100%; 
         }
