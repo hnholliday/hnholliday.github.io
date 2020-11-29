@@ -116,3 +116,18 @@
             background-color: lightblue;
             height: 50px;
         }
+
+.Tech {
+    color: darkslateblue;
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    border: dotted;
+}
+.Soft {
+    color: white;
+    background-color: darkslateblue;
+    height: 200px;
+    width: 100%;
+    border: dotted;
+}
