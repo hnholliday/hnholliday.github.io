@@ -31,10 +31,47 @@
             color: white;
    }
 
-        .opening span
+        .opening
         {
             font: italic; 
             text-decoration: underline; 
-            text-decoration-color:hotpink;
+            text-decoration-color:darkslateblue;
+        }
 
+        .Purpose 
+        {
+             float:left;
+             color: darkslateblue;
+             background-color: white;
+             height: 250px;
+             width: 35%;
+             padding: 5%;
+             border:dotted;
+        }
+
+        .Purpose h3
+        {
+            text-decoration:underline; 
+
+        }
+
+        .Introduction 
+        {
+            float: left;
+            color: white;
+            background-color: darkslateblue;
+            height: 250px;
+            width: 35%;
+            padding: 5%;
+            border: dotted;
+        }
+        .Introduction h3
+        {
+            text-decoration:underline; 
+        }
+        .break {
+            background-color: lightblue;
+            height: 250px;
+            float: left;
+            width: 9.25%;
         }
