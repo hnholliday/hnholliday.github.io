@@ -49,7 +49,7 @@
              border:dotted;
         }
 
-        .Purpose h3
+        h3
         {
             text-decoration:underline; 
         }
@@ -75,8 +75,44 @@
             width: 9.25%;
         }
 
-        .break img
+        img
         {
             max-height: 100%;
             max-width: 100%; 
+        }
+
+        .education {
+            color: darkslateblue;
+            background-color: white;
+            height: 175px;
+            width: 100%;
+            border: dotted;
+        }
+
+        .lead {
+            color: white;
+            background-color: darkslateblue;
+            height: 175px;
+            width: 100%;
+            border: dotted;
+        }
+        .s {
+            color: darkslateblue;
+            background-color: white;
+            height: 175px;
+            width: 100%;
+            border: dotted;
+        }
+
+        .hob{
+            color: white;
+            background-color: darkslateblue;
+            height: 175px;
+            width: 100%;
+            border: dotted;
+        }
+
+        .hbreak {
+            background-color: lightblue;
+            height: 50px;
         }
